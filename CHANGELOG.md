@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.206.1-alpha.10091510d320db02c299e6f8d0779525fa336673](https://github.com/bigcommerce/checkout-sdk-js/compare/v1.206.0...v1.206.1-alpha.10091510d320db02c299e6f8d0779525fa336673) (2021-12-24)
+
+
+### Features
+
+* **checkout:** CHECKOUT-6070 Apple Pay Wallet Button ([1009151](https://github.com/bigcommerce/checkout-sdk-js/commit/10091510d320db02c299e6f8d0779525fa336673))
+
 ## [1.206.0](https://github.com/bigcommerce/checkout-sdk-js/compare/v1.205.1...v1.206.0) (2021-12-21)
 
 
